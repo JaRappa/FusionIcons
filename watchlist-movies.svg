@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Background -->
+  <rect width="200" height="200" rx="20" fill="#0a0a0a"/>
+
+  <!-- Film strip body (smaller, offset) -->
+  <rect x="28" y="72" width="110" height="52" rx="4" fill="none" stroke="#ffffff" stroke-width="2.5" opacity="0.6"/>
+  
+  <!-- Film perforations left -->
+  <rect x="28" y="80" width="13" height="10" rx="2" fill="#0a0a0a" stroke="#ffffff" stroke-width="2" opacity="0.6"/>
+  <rect x="28" y="95" width="13" height="10" rx="2" fill="#0a0a0a" stroke="#ffffff" stroke-width="2" opacity="0.6"/>
+  <rect x="28" y="110" width="13" height="10" rx="2" fill="#0a0a0a" stroke="#ffffff" stroke-width="2" opacity="0.6"/>
+
+  <!-- Film perforations right -->
+  <rect x="125" y="80" width="13" height="10" rx="2" fill="#0a0a0a" stroke="#ffffff" stroke-width="2" opacity="0.6"/>
+  <rect x="125" y="95" width="13" height="10" rx="2" fill="#0a0a0a" stroke="#ffffff" stroke-width="2" opacity="0.6"/>
+  <rect x="125" y="110" width="13" height="10" rx="2" fill="#0a0a0a" stroke="#ffffff" stroke-width="2" opacity="0.6"/>
+
+  <!-- Bookmark / save icon (overlapping, foreground) -->
+  <path d="M118 58 L118 118 L148 100 L178 118 L178 58 Z" fill="#ffffff" rx="3"/>
+  <!-- Notch at top of bookmark -->
+  <rect x="118" y="58" width="60" height="5" rx="2" fill="#ffffff"/>
+</svg>

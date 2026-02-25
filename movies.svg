@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Background -->
+  <rect width="200" height="200" rx="20" fill="#0a0a0a"/>
+
+  <!-- Left film reel -->
+  <circle cx="68" cy="68" r="22" fill="#ffffff"/>
+  <circle cx="68" cy="68" r="10" fill="#0a0a0a"/>
+  <circle cx="68" cy="68" r="4" fill="#ffffff"/>
+
+  <!-- Right film reel -->
+  <circle cx="126" cy="68" r="22" fill="#ffffff"/>
+  <circle cx="126" cy="68" r="10" fill="#0a0a0a"/>
+  <circle cx="126" cy="68" r="4" fill="#ffffff"/>
+
+  <!-- Reel connector strip -->
+  <rect x="68" y="60" width="58" height="16" fill="#ffffff"/>
+
+  <!-- Main camera body -->
+  <rect x="38" y="84" width="118" height="72" rx="5" fill="#ffffff"/>
+
+  <!-- Lens cone pointing RIGHT (the []< shape) -->
+  <polygon points="100,109 100,131 122,120" fill="#ffffff"/>
+
+  <!-- Lens housing - outer rim -->
+  <circle cx="72" cy="120" r="28" fill="#0a0a0a"/>
+  <!-- Lens ring 1 -->
+  <circle cx="72" cy="120" r="24" fill="#ffffff"/>
+  <!-- Lens ring 2 -->
+  <circle cx="72" cy="120" r="20" fill="#0a0a0a"/>
+  <!-- Lens ring 3 -->
+  <circle cx="72" cy="120" r="16" fill="#ffffff"/>
+  <!-- Lens glass -->
+  <circle cx="72" cy="120" r="12" fill="#0a0a0a"/>
+  <!-- Play triangle centered in lens -->
+  <polygon points="67,114 67,126 79,120" fill="#ffffff"/>
+
+  <!-- Viewfinder box (top right of body) -->
+  <rect x="112" y="90" width="34" height="22" rx="3" fill="#0a0a0a"/>
+
+  <!-- Crank handle on right side -->
+  <rect x="156" y="106" width="10" height="28" rx="4" fill="#ffffff"/>
+  <circle cx="161" cy="106" r="6" fill="#ffffff"/>
+  <circle cx="161" cy="134" r="5" fill="#ffffff"/>
+</svg>

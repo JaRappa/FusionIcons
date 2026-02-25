@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Background -->
+  <rect width="200" height="200" rx="20" fill="#0a0a0a"/>
+  
+  <!-- TV Screen outer -->
+  <rect x="28" y="55" width="144" height="100" rx="8" fill="none" stroke="#ffffff" stroke-width="3"/>
+  
+  <!-- TV Screen inner bezel hint -->
+  <rect x="38" y="65" width="124" height="80" rx="4" fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.35"/>
+
+  <!-- Signal bars / antenna lines (modern flat TV aesthetic) -->
+  <!-- Stand -->
+  <line x1="100" y1="155" x2="100" y2="168" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+  <line x1="78" y1="168" x2="122" y2="168" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Screen content: simple play/broadcast symbol -->
+  <circle cx="100" cy="105" r="18" fill="none" stroke="#ffffff" stroke-width="2.5"/>
+  <polygon points="94,98 94,112 110,105" fill="#ffffff"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Background -->
+  <rect width="200" height="200" rx="20" fill="#0a0a0a"/>
+  
+  <!-- TV Screen (smaller, offset) -->
+  <rect x="22" y="58" width="122" height="88" rx="7" fill="none" stroke="#ffffff" stroke-width="2.5" opacity="0.6"/>
+  <!-- Inner screen -->
+  <rect x="32" y="68" width="102" height="68" rx="3" fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.3"/>
+  <!-- Stand -->
+  <line x1="83" y1="146" x2="83" y2="157" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" opacity="0.6"/>
+  <line x1="64" y1="157" x2="102" y2="157" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" opacity="0.6"/>
+
+  <!-- Bookmark icon (overlapping foreground) -->
+  <path d="M130 42 L130 120 L162 103 L194 120 L194 42 Z" fill="#ffffff"/>
+  <rect x="130" y="42" width="64" height="5" rx="2" fill="#ffffff"/>
+</svg>
